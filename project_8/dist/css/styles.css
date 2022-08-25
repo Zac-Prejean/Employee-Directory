@@ -39,14 +39,12 @@ body {
 }
 .card:hover {
     transform: scale(1.02);
-    box-shadow: 3px solid #525e64;
 }
 img {
     border-radius: 50%;
     border: 2px solid #889096;
     width:100px;
 }
-
 .txt-con {
     padding-left:25px;
 }
